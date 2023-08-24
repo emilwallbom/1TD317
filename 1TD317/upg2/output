@@ -1,0 +1,53 @@
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ls
+test1.txt  test2.txt  upg2  upg2.cpp
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test1.txt
+Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 33
+Tim: 0 Min: 52 Sek: 20
+Antal tävlande: 1
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test2.txt
+Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 33
+Tim: 18 Min: 52 Sek: 20
+Antal tävlande: 1
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test3.txt
+Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 14
+Tim: 0 Min: 37 Sek: 24
+Antal tävlande: 3
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test4.txt
+Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 14
+Tim: 0 Min: 37 Sek: 24
+Antal tävlande: 3
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test5.txt
+Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 14
+Tim: 0 Min: 37 Sek: 24
+Antal tävlande: 3
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test6.txt
+Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 17
+Tim: 23 Min: 59 Sek: 40
+Antal tävlande: 1
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test7.txt
+Startnummer? Inga tävlande.
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test8.txt
+Startnummer? Starttid? Sluttid? Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 15
+Tim: 1 Min: 0 Sek: 0
+Antal tävlande: 2
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ ./upg2 < test9.txt
+Startnummer? Starttid? Sluttid? Startnummer? Vinnare är startnr 8
+Tim: 0 Min: 0 Sek: 10
+Antal tävlande: 1
+Programmet avslutas
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg2$ 
+
+
+
+
+
+
+

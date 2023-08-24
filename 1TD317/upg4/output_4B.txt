@@ -1,0 +1,53 @@
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg6$ cd ..
+emilw@emils-dator:~/Univerrsitetskurser/1TD317$ cd upg4
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg4$ ./upg4B
+Namn på fil: 
+texter/doyle
+
+Resultat för bokstäverna A-Z
+
+Totala antalet bokstäver: 12885
+Kvadratsumma för språk Engelska: 1.75771
+Kvadratsumma för språk Franska: 96.1956
+Kvadratsumma för språk Svenska: 73.3371
+Kvadratsumma för språk Tyska: 116.072
+Det är mest troligt att språket är Engelska.
+
+Bokstavsfördelning:
+
+A *****************
+B ***
+C *******
+D ********
+E *************************
+F *****
+G ***
+H *************
+I ****************
+J *
+K **
+L ********
+M ******
+N *************
+O ****************
+P ****
+Q *
+R ************
+S *************
+T *******************
+U ******
+V ***
+W *****
+X *
+Y *****
+Z *
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg4$ 
+
+
+
+
+
+
+
+
+

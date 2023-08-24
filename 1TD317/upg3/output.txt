@@ -1,0 +1,60 @@
+Tycker du att det finns någon fördel att använda funktioner för att utföra olika uppgifter i programmet, 
+jämfört med hur det såg ut i Inlämningsuppgift 2 där allt hände i huvudprogrammet?
+SVAR: Ja fördelarna är många; dels ökar läsbarheten då vi får ett simpelt mainprogram och kan kolla 
+vad varje funktion gör. Det blir också väldigt naturligt att dela upp uppgiften i fler små problem 
+vilket underlättar lösningsgången. 
+
+I någon av dina skrivna funktioner använder du dig troligen av referensparametrar. Varför gör man inte det jämt?
+SVAR: Ibland vill man inte att funktionen ska ändra orginal variabeln. I stora program kan det bli mycket 
+förvirrande med många referensparametrar då man kanske inte lika lätt kan se vart ett fel uppstår, Detta
+eftersom parametern kan ändras i flera funktioner. 
+
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: 3
+Skriv in ett heltal: 5
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): a
+Resultatet av beräkningen är: 12
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: 3
+Skriv in ett heltal: 5
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): m
+Resultatet av beräkningen är: 60
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: -3
+Skriv in ett heltal: 5
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): m
+Resultatet av beräkningen är: 0
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: 3
+Skriv in ett heltal: 5
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): k
+Resultatet av beräkningen är: 50
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: 5
+Skriv in ett heltal: 3
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): a
+Resultatet av beräkningen är: 12
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: -3
+Skriv in ett heltal: -5
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): a
+Resultatet av beräkningen är: -12
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: 1
+Skriv in ett heltal: 100
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): k
+Resultatet av beräkningen är: 338350
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ ./upg3
+Detta program beräknar olika operationer på två heltal.
+Skriv in ett heltal: 1
+Skriv in ett heltal: 1000
+Välj en av följande beräkningstyper (a - Addera, m - Multiplicera, k - Kvadratsumma): m
+Resultatet av beräkningen är: 0
+emilw@emils-dator:~/Univerrsitetskurser/1TD317/upg3$ 
